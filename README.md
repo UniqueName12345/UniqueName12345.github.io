@@ -1,2 +1,6 @@
 # UniqueName's Unique Website
-Welcome to my website! This is where [stuff](https://en.wikipedia.org/wiki/Garbage) goes. Usually, you will see a description of my projects.
+Welcome to my website! This is where [stuff](https://en.wikipedia.org/wiki/Spaghetti_code) goes. Usually, you will see a description of my projects. Since there is no projects here, though, you will just see this empty void...
+
+
+...a quick break to anounce [my email](mailto:ethandacomputergeekhomeedition@gmail.com)...
+
